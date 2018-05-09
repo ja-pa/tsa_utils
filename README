@@ -1,0 +1,6 @@
+Help
+-------------------
+--stamp  <file> # make timestamp of file
+--verify <file> # verify file timestamp
+--info   <file> # info about file timestamp
+--help
